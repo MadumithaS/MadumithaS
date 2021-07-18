@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.E., Electronics and communication engineering
 - 💞️ I’m looking to collaborate on web development and software developing 
 - 📫 How to reach me through gmail
-I'm also skilled about c and python
+- I'm also skilled inc and python
 
 <!---
 MadumithaS/MadumithaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
