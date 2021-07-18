@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MadumithaS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Madumitha.S
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning B.E., Electronics and communication engineering
+- 💞️ I’m looking to collaborate on web development and software developing 
+- 📫 How to reach me through gmail
 
 <!---
 MadumithaS/MadumithaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
